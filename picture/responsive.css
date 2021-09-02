@@ -1,0 +1,16 @@
+@media screen and (max-width:900px){
+    .contener {
+        width: 800px;
+        margin: auto;
+    }
+    header#header {
+        background: #0b0bb1;
+        color: #d11f1f9e;
+    }
+    .homeingpost h1 {
+        font-size: 40px;
+        font-family: 'Rubik';
+        font-weight: 200;
+        color: #b90606d1;
+    }
+}
